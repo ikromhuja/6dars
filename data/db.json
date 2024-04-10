@@ -1,0 +1,20 @@
+{
+    "recipies": [
+      {
+        "id": 1,
+        "title:": "Palov",
+        "ingredients": [
+          "guruch",
+          "sabzi",
+          "zira",
+          "go'sht",
+          "yog'",
+          "piyoz",
+          "tuz",
+          "suv"
+        ],
+        "cookingTime:": "60 minutes",
+        "method:": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati vel nihil tenetur rerum eos architecto delectus suscipit adipisci aut ut porro consequatur ipsum error voluptate facere sequi dicta, at sit nobis inventore sapiente placeat possimus! Id, libero. Ullam et architecto facilis magnam nobis odit repellat quam, impedit veniam tempore. Sapiente!"
+      }
+    ]
+  }
